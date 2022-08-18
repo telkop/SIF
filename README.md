@@ -1,0 +1,2 @@
+# sif
+Small Investment Fond
